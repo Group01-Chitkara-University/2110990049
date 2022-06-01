@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap");
 :root {
-  --color-white: rgb(223, 223, 222);
+  --color-white: rgb(223, 222, 222);
   --color-white-dark: rgba(91, 91, 91, 0.61);
   --color-orange: rgb(255, 108, 71);
   --color-black: rgb(27, 27, 27);
